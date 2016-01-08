@@ -1,0 +1,175 @@
+
+
+
+
+html, body{
+    height: 100%;
+}
+
+
+
+body{
+	background: url('../images/background.png') center no-repeat;
+}
+
+/*this controls the width of nav*/
+#containerTop{
+	margin-top: .5%;
+	width: 75%;
+}
+
+
+/*this controls the width of page content*/
+#pageContent{
+	margin-top:1.5%;
+	width: 42%;
+	line-height: 275%;
+	}
+#pageContentog{
+	margin-top:1.5%;
+	width: 42%;
+	line-height: 275%;
+	}
+.container-fluid h1{
+	font-family: 'Open Sans', sans-serif;
+	color: #A7A9AC;
+}
+
+
+.navbar-header{
+	display: inline;
+	}
+	
+.navbar-default{
+
+	background-color: transparent ;
+	border-bottom: none;
+
+	}
+mark{
+	background-color: #E4F1FE;
+	}
+	
+	/* THIS CONTROLS THE NAV TEXT */
+.navbar-default .navbar-nav> li>a{
+	color: #A7A9AC;
+	font-size: 18px;
+	font-family: 'Didact Gothic', sans-serif;
+
+	}
+	
+ .navbar-brand,
+.navbar-nav li a{
+	height: 70px;
+	margin-left:1px;
+	
+	
+	}
+
+.navbar-nav li a{
+	line-height:95px;
+	padding:0 20px;
+	
+}
+.navbar-default .navbar-nav>.active>a{ 
+	background-color: transparent;
+	
+	}
+	
+.navbar-default .navbar-nav>.active>a:before{
+    content: "";
+    position: absolute;
+    width: 60%;
+    height: 1px;
+    bottom: 0;
+    left: 20%;
+    border-bottom: 2px solid black;
+}
+.navbar-default .navbar-nav>.active>a:hover{ 
+	background-color: transparent;
+	}
+
+
+
+.bottom{
+padding-bottom: 25%;
+}
+@media only screen and (max-width:979px){
+	#pageContent{
+	margin-top:1.5%;
+	width: 60%;
+	line-height: 275%;
+	}
+	#pageContentog{
+	margin-top:1.5%;
+	width: 60%;
+	line-height: 275%;
+	}
+
+}
+
+
+@media only screen and (max-width:768px){
+	#pageContent{
+	margin-top:1.5%;
+	width: 75%;
+	line-height: 275%;
+	}
+	#pageContentog{
+	margin-top:1.5%;
+	width: 75%;
+	line-height: 275%;
+	}
+	.navbar-default .navbar-nav> li>a{
+	color: #A7A9AC;
+	font-size: 18px;
+	font-family: 'Didact Gothic', sans-serif;
+	line-height:60px;
+	}
+	.navbar-default .navbar-nav>.active>a{ 
+	background-color: #A7A9AC;
+	color:white;
+	}
+	.navbar-default .navbar-nav>.active>a:before{
+    content: "";
+    position: absolute;
+    width: 60%;
+    height: 1px;
+    bottom: 0;
+    left: 20%;
+    border-bottom: none;
+}
+.navbar-toggle{
+	margin-top: 20px;
+	}
+.navbar-default .navbar-nav>.active>a:hover{ 
+	background-color: #A7A9AC;
+	}
+	
+}
+
+
+@media only screen and (max-width:480px){
+#pageContent{
+	margin-top:1.5%;
+	width: 90%;
+	line-height: 275%;
+	}
+	#pageContentog{
+	margin-top:1.5%;
+	width: 90%;
+	line-height: 275%;
+	}
+#containerTop{
+	width: 100%;
+}
+#pfb {
+	width:200px;
+	}
+}
+
+@media only screen and (max-width:320px){
+	#logo{
+	width:220px;
+	}
+}

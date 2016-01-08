@@ -1,0 +1,83 @@
+.email{
+	margin-top:5%;
+	}
+input[type=email]{
+	 border: 1.5px solid #A7A9AC;
+	 border-radius: 3pt;
+	 width: 100%;
+	 font-size: 18px;
+	 height: 36px;
+	 line-height:30px;
+  }
+  
+  input[type=text]{
+	 border: 1.5px solid #A7A9AC;
+	 border-radius: 3pt;
+	 width: 100%;
+	 font-size: 18px;
+	 height: 36px;
+	 line-height:30px;
+
+  }
+  #pfp {
+	width:38px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto; 
+	margin-top: 1%;
+	}
+  
+ h3{
+	
+	
+	font-size:20;
+	color: #336E7B;
+	font-family: 'Open Sans', sans-serif;
+	}
+  
+ textarea{
+	width:100%;
+	border: 1.5px solid #A7A9AC;
+	border-radius: 3pt;
+	font-size: 18px;
+	}
+  
+    input[type=submit]{
+
+	height: 36px;
+	line-height: 30px;
+	width: 80px;
+	float: right;
+	background-color: white;
+	border: 1.5px solid #A7A9AC;
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+	color: #A7A9AC;
+	border-radius: 3pt;
+	margin-top:1%;
+  }
+  
+ body{ 
+	background-color: #E6E7E8;
+	}
+	
+.container-fluid h1{
+	color: #A7A9AC;
+	text-align: center;
+	font-size: 40px;
+	padding-top:3%;
+	font-family: 'Open Sans', sans-serif;
+	}
+	
+@media only screen and (max-width:480px){
+	 #pfp {
+	 width: 25px;
+	 }
+	 
+	 .container-fluid{
+
+	margin-top:6%;
+	
+	}
+
+}

@@ -1,0 +1,95 @@
+
+body{ 
+	background-color: #E6E7E8;
+	}
+
+	
+#pfp2 {
+	width:500px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto; 
+	margin-top: 2%;
+	}
+#pfp {
+	width: 80%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto; 
+	margin-top: 10%;
+	}
+
+#pageContent{
+	margin-top:0%
+	}
+#pageContent2{
+	width: 42%;
+	line-height: 275%;
+	margin-top:1.5%;
+	}
+	
+.container h1{
+	font-family: 'Open Sans', sans-serif;
+	color: #A7A9AC;
+	}
+
+.title{
+	margin-top:5%;
+	}
+.title h1{
+	font-family: 'Open Sans', sans-serif;
+	color: #A7A9AC;
+	padding-top: 5%:
+	}
+	
+#info{ 
+	margin-top: 5%;
+	}
+.quickInfo{
+	padding-top: 2%;
+	}
+.quickInfo p{
+	font-size: 16px;
+	margin-top: -2%;
+	}
+	
+p{
+	font-size: 18px;
+	padding-top:1%;
+	}
+
+	
+.container h3{
+	padding-top: 4%;
+	color: #336E7B;
+	font-family: 'Open Sans', sans-serif;
+	}
+	
+	/* extra pics*/
+#carouselPlus{
+	width: 42%;
+	margin-top:50px;
+	}
+
+#carousel{
+
+	
+	}
+.thmb1, .thmb2, .thmb3, .thmb4, .thmb5{	
+	margin-bottom:40px;
+	}
+
+
+
+#column {
+	margin-top:-25px;
+	}
+
+	
+@media only screen and (max-width:510px){
+	#pfp2 {
+	width: 300px;
+	
+	}
+
+	}
