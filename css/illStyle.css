@@ -4,11 +4,11 @@ body{
 	}
 
 	#pfp2 {
-	width:500px;
+	width:100%;
 	display: block;
     margin-left: auto;
     margin-right: auto; 
-	margin-top: 2%;
+	margin-top: 5%;
 	}
 #pfp {
 	width: 80%;
@@ -16,6 +16,7 @@ body{
     margin-left: auto;
     margin-right: auto; 
 	margin-top: 10%;
+
 	}
 	
 #pfp3 {
@@ -23,7 +24,7 @@ body{
 	display: block;
     margin-left: auto;
     margin-right: auto; 
-	margin-top: %;
+	margin-top: 4%;
 	}
 
 #button{
@@ -31,22 +32,26 @@ body{
 	}	
 	
 #pageContent{
-	margin-top:-1.7%
+	margin-top:2%
 	}
 #pageContent ol{
 	font-size:18px;
 	}
 .decorate p{
-	margin-top: 14%;
+	width:80%;
+	margin-left:10%;
+	margin-top: 10%;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 25px;
+	color: #939598;
+	
 	}
 .stuff{
-	margin-top: -13%;
+	margin-top: 0%;
 	}
 
 #name{
-	margin-top: -24%;
+	margin-top: -20%;
 	}
 #pageContent2{
 	width: 42%;
@@ -56,7 +61,7 @@ body{
 	
 .container h1{
 	font-family: 'Open Sans', sans-serif;
-	color: #A7A9AC;
+	color: black;
 	}
 
 .title{
@@ -64,20 +69,20 @@ body{
 	}
 .title h1{
 	font-family: 'Open Sans', sans-serif;
-	color: #A7A9AC;
+	color: #939598;
 	padding-top: 5%:
 	}
 	
 
-	
 p{
-	font-size: 18px;
+	font-size: 19px;
 	padding-top:1%;
+	font-family: 'PT Serif', serif;
 	}
 
 	
 .container h3{
-	padding-top: 8%;
+	padding-top: 4%;
 	color: #336E7B;
 	font-family: 'Open Sans', sans-serif;
 	}
@@ -110,7 +115,6 @@ p{
 @media only screen and (max-width:510px){
 	#pfp2 {
 	width: 300px;
-	
 	}
 
 	}
