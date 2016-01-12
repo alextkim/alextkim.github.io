@@ -7,69 +7,69 @@
 	}
 	
 #but1{
-	width: 450px;
-	height: 450px;
+	width: 407.5px;
+	height: 375px;
 	margin-left:5%;
 	margin-right:5%;
 	margin-bottom:5%;
 	transition: background 0.8s ease;
 	background:url('../images/frame1.png') top center no-repeat;
 	border: none;
-	background-size: 450px 450px;
+	background-size: 407.5px 375px;
 	
 	}
 #but1:hover{
 	background:url('../images/frame1RealSw.png') top center no-repeat;
-	background-size: 450px 450px;
+	background-size: 418.36px 385px;
 	}
 #but2{
-	width: 450px;
-	height: 450px;
+	width: 407.5px;
+	height: 375px;
 	margin-left:5%;
 	margin-right:5%;
 	margin-bottom:5%;
 	transition: background 0.8s ease;
 	background:url('../images/frame2.png') top center no-repeat;
 	border: none;
-	background-size: 450px 450px;
-	margin-top:-15%;
+	background-size: 407.5px 375px;
+	margin-top:-12%;
 	}
 #but2:hover{
 	background:url('../images/frame2RealSw.png') top center no-repeat;
-	background-size: 450px 450px;
+	background-size: 418.36px 385px;
 	}
 	
 #but3{
-	width: 600px;
-	height: 400px;
+	width: 478.33px;
+	height: 350px;
 	margin-left:5%;
 	margin-right:5%;
 	margin-bottom:5%;
 	transition: background 0.8s ease;
 	background:url('../images/frame3.png') top center no-repeat;
 	border: none;
-	background-size:600px 450px;
+	background-size:478.33px 350px;
 	margin-top:-10%;
 	}
 #but3:hover{
 	background:url('../images/frame3Sw.png') top center no-repeat;
-	background-size: 600px 450px;
+	background-size: 492px 360px;
 	}
 #but4{
-	width: 600px;
-	height: 400px;
+	width: 478.33px;
+	height: 350px;
 	margin-left:5%;
 	margin-right:5%;
 	margin-bottom:5%;
 	transition: background 0.8s ease;
 	background:url('../images/frame4.png') top center no-repeat;
 	border: none;
-	background-size:600px 450px;
+	background-size:478.33px 350px;
 	margin-top:-10%;
 	}
 #but4:hover{
 	background:url('../images/frame4Sw.png') top center no-repeat;
-	background-size: 600px 450px;
+	background-size: 492px 360px;
 	}
 	
 #frame2 {
@@ -84,7 +84,7 @@
 	margin-top:-2%;
 	}
 #row2{
-	margin-top:-14%;
+	margin-top:-10%;
 	}
 
 #icons{
@@ -98,79 +98,126 @@ body{
 	background-color: #E6E7E8;
 	}
 
-	@media only screen and (max-width:991px){
-	#frame3{
-		margin-top:10%;
-		}
-	#frame4{
-		margin-top:-5%;
-		}
-	#frame4{
-		margin-top:-5%;
-		}
-}
-@media only screen and (max-width:576px){
-	#frame1{
-	height:220px;
-	display: block;
-    margin-left: auto;
-    margin-right: auto; 
-	margin-top: 7%;
+@media only screen and (max-width:1208px){
+#but1{
+	width: 326px;
+	height: 300px;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:5%;
+	transition: background 0.8s ease;
+	background:url('../images/frame1.png') top center no-repeat;
+	border: none;
+	background-size: 326px 300px;
+	
 	}
-	#frame2{
-	height: 220px;
-	display: block;
-    margin-left: auto;
-    margin-right: auto; 
-	margin-top: -5%;
+#but1:hover{
+	background:url('../images/frame1RealSw.png') top center no-repeat;
+	background-size: 336.86px 310px;
 	}
-	#frame3{
-	height: 220px;
-	display: block;
-    margin-left: auto;
-    margin-right: auto; 
-	margin-top: 7%;
+#but2{
+	width: 326px;
+	height: 300px;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:5%;
+	transition: background 0.8s ease;
+	background:url('../images/frame2.png') top center no-repeat;
+	border: none;
+	background-size: 326px 300px;
+	margin-top:-14%;
 	}
-	#frame4{
-	height: 220px;
-	display: block;
-    margin-left: auto;
-    margin-right: auto; 
-	margin-top: -5%;
+#but2:hover{
+	background:url('../images/frame2RealSw.png') top center no-repeat;
+	background-size: 336.86px 310px;
 	}
-
+	
+#but3{
+	width: 341.66px;
+	height: 250px;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:5%;
+	transition: background 0.8s ease;
+	background:url('../images/frame3.png') top center no-repeat;
+	border: none;
+	background-size:341.66px 250px;
+	margin-top:-10%;
 	}
-@media only screen and (max-width:320px){
-	#frame1{
-	height:200px;
-	display: block;
-    margin-left: auto;
-    margin-right: auto; 
-	margin-top: 7%;
+#but3:hover{
+	background:url('../images/frame3Sw.png') top center no-repeat;
+	background-size: 355.33px 260px;
 	}
-	#frame2{
-	height: 200px;
-	display: block;
-    margin-left: auto;
-    margin-right: auto; 
-	margin-top: 7%;
+#but4{
+	width: 341.66px;
+	height: 250px;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:5%;
+	transition: background 0.8s ease;
+	background:url('../images/frame4.png') top center no-repeat;
+	border: none;
+	background-size:341.66px 250px;
+	margin-top:-10%;
 	}
-	#frame3{
-	height: 200px;
-	display: block;
-    margin-left: auto;
-    margin-right: auto; 
-	margin-top: 7%;
-	}
-	#frame4{
-	height: 200px;
-	display: block;
-    margin-left: auto;
-    margin-right: auto; 
-	margin-top: 5%;
+#but4:hover{
+	background:url('../images/frame4Sw.png') top center no-repeat;
+	background-size: 355.33px 260px;
 	}
 }
+@media only screen and (max-width:991px){
+#but2{
+margin-top:-12%;
+	}
+#but3{
+	margin-top:0%;
+	}
+	
 
+	}
+@media only screen and (max-width:420px){
+#but1{
+	width: 271.66px;
+	height: 250px;
+	background-size: 271.66px 250px;
+	}
+#but1:hover{
+	background:url('../images/frame3Sw.png') top center no-repeat;
+	background-size: 271.66px 250px;
+	}
+
+#but2{
+	width: 271.66px;
+	height: 250px;
+	background-size: 271.66px 250px;
+	}
+	
+#but2:hover{
+	background:url('../images/frame3Sw.png') top center no-repeat;
+	background-size: 271.66px 250px;
+	
+	}
+
+#but3{
+	width: 273.33px;
+	height: 200px;
+	background-size: 273.33px 200px;
+	}
+#but3:hover{
+	background:url('../images/frame3Sw.png') top center no-repeat;
+	background-size: 273.33px 200px;
+	}
+	
+
+#but4{
+	width: 273.33px;
+	height: 200px;
+	background-size: 273.33px 200px;
+	}
+#but4:hover{
+	background:url('../images/frame3Sw.png') top center no-repeat;
+	background-size: 273.33px 200px;
+	}
 	
 .hex2{ -webkit-animation-delay: .3s;}
 .hex3{ -webkit-animation-delay: .5s;}
