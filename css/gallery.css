@@ -5,6 +5,73 @@
     margin-right: auto; 
 	margin-top: 2%;
 	}
+	
+#but1{
+	width: 450px;
+	height: 450px;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:5%;
+	transition: background 0.8s ease;
+	background:url('../images/frame1.png') top center no-repeat;
+	border: none;
+	background-size: 450px 450px;
+	
+	}
+#but1:hover{
+	background:url('../images/frame1RealSw.png') top center no-repeat;
+	background-size: 450px 450px;
+	}
+#but2{
+	width: 450px;
+	height: 450px;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:5%;
+	transition: background 0.8s ease;
+	background:url('../images/frame2.png') top center no-repeat;
+	border: none;
+	background-size: 450px 450px;
+	margin-top:-15%;
+	}
+#but2:hover{
+	background:url('../images/frame2RealSw.png') top center no-repeat;
+	background-size: 450px 450px;
+	}
+	
+#but3{
+	width: 600px;
+	height: 400px;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:5%;
+	transition: background 0.8s ease;
+	background:url('../images/frame3.png') top center no-repeat;
+	border: none;
+	background-size:600px 450px;
+	margin-top:-10%;
+	}
+#but3:hover{
+	background:url('../images/frame3Sw.png') top center no-repeat;
+	background-size: 600px 450px;
+	}
+#but4{
+	width: 600px;
+	height: 400px;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:5%;
+	transition: background 0.8s ease;
+	background:url('../images/frame4.png') top center no-repeat;
+	border: none;
+	background-size:600px 450px;
+	margin-top:-10%;
+	}
+#but4:hover{
+	background:url('../images/frame4Sw.png') top center no-repeat;
+	background-size: 600px 450px;
+	}
+	
 #frame2 {
 	
 
@@ -17,7 +84,7 @@
 	margin-top:-2%;
 	}
 #row2{
-	margin-top:-10%;
+	margin-top:-14%;
 	}
 
 #icons{
