@@ -6,9 +6,19 @@ body{
 #button{
 	padding-top: 10%;
 	}
-	
+#link{
+	margin-top:10%;
+	}
 #pfp2 {
 	width:500px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto; 
+	margin-top: 7%;
+	}
+	
+#pfpp {
+	width: 70%;
 	display: block;
     margin-left: auto;
     margin-right: auto; 
@@ -56,7 +66,10 @@ body{
 	color: #A7A9AC;
 	padding-top: 5%:
 	}
-	
+	ol{
+	font-size:18px;
+	font-family: 'PT Serif', serif;
+	}
 #info{ 
 	margin-top: 5%;
 	}
