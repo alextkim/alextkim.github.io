@@ -15,10 +15,37 @@ p{
 	}
 
 #resume{
-	padding-top:6%;
-	padding-bottom:3%;
+	padding-top:4%;
+	padding-bottom:6%;
 	}
+
 body{ 
 	background-color: #E6E7E8;
+	}
+	
+.jumbos{
+	margin-top:10%;
+	}
+.jumbos h1{
+	color: black;
+	}
+#draw{
+	
+	margin-top:10%;
+	}
+.jumbotron btn-primary{
+	margin-top: 5%;
+	}
+#idea {
+	background-color: white;
+	}
+	
+#draw{
+	background-color: white;
+	}
+	
+.btn-primary{
+	background-color: #336E7B;
+	
 	}
 	
