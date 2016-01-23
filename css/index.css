@@ -5,7 +5,67 @@
     margin-right: auto; 
 	margin-top: 7%;
 	}
-	
+/* buttons for the links */
+
+#but1{
+	width: 250px;
+	height: 250px;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:5%;
+	transition: background 0.8s ease;
+	background:url('../images/idea8But.png') top center no-repeat;
+	border: none;
+	background-size: 250px 250px;
+
+	}
+	hr {
+ 
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+
+    padding: 0; 
+}
+.row{
+	margin-top: 5%;
+	}
+#but1:hover{
+	background:url('../images/idea8But2.png') top center no-repeat;
+	background-size: 250px 250px;
+	}	
+#but2{
+	width: 250px;
+	height: 250px;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:5%;
+	transition: background 0.8s ease;
+	background:url('../images/drawingBut.png') top center no-repeat;
+	border: none;
+	background-size: 250px 250px;
+
+	}
+#but2:hover{
+	background:url('../images/drawingBut2.png') top center no-repeat;
+	background-size: 250px 250px;
+	}	
+#but3{
+	width: 250px;
+	height: 250px;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:5%;
+	transition: background 0.8s ease;
+	background:url('../images/logoBut.png') top center no-repeat;
+	border: none;
+	background-size: 250px 250px;
+
+	}
+#but3:hover{
+	background:url('../images/logoBut2.png') top center no-repeat;
+	background-size: 250px 250px;
+	}	
 
 p{
 	font-family: 'PT Serif', serif;
@@ -48,4 +108,73 @@ body{
 	background-color: #336E7B;
 	
 	}
+#pageContentbot{ 
+	margin-top: 2.5%;
+	width: 60%;
+	}
+	
+/* media1 stuff */
+
+@media only screen and (max-width:1403px){
+	#but1{
+	width: 220px;
+	height: 220px;
+	background-size: 220px 220px;
+	}
+
+	#but1:hover{
+	background-size: 220px 220px;
+	}	
+	
+	#but2{
+	width: 220px;
+	height: 220px;
+	background-size: 220px 220px;
+	}
+
+	#but2:hover{
+	background-size: 220px 220px;
+	}	
+	
+	#but3{
+	width: 220px;
+	height: 220px;
+	background-size: 220px 220px;
+	}
+
+	#but3:hover{
+	background-size: 220px 220px;
+	}	
+}
+@media only screen and (max-width:1239px){
+	#but1{
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+	}
+
+	#but1:hover{
+	background-size: 180px 180px;
+	}	
+	
+	#but2{
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+	}
+
+	#but2:hover{
+	background-size: 180px 180px;
+	}	
+	
+	#but3{
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+	}
+
+	#but3:hover{
+	background-size: 180px 180px;
+	}	
+}
 	

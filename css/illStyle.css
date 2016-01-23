@@ -4,7 +4,7 @@ body{
 	}
 
 	#pfp2 {
-	width:100%;
+	width:60%;
 	display: block;
     margin-left: auto;
     margin-right: auto; 
@@ -115,7 +115,7 @@ p{
 
 @media only screen and (max-width:510px){
 	#pfp2 {
-	width: 300px;
+	width: 100%;
 	}
 
 	}
@@ -128,6 +128,10 @@ p{
 	margin-top:1.5%;
 	width: 60%;
 	line-height: 275%;
+	}
+	
+	#pfp2 {
+	width: 80%;
 	}
 
 }

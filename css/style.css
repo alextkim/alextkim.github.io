@@ -88,7 +88,18 @@ mark{
 	background-color: transparent;
 	}
 
-
+#but1{
+	width: 250 px;
+	height: 250px;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:5%;
+	transition: background 0.8s ease;
+	background:url('../images/idea8But.png') top center no-repeat;
+	border: none;
+	background-size: 407.5px 375px;
+	
+	}
 
 .bottom{
 padding-bottom: 25%;
