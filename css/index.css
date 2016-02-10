@@ -1,3 +1,8 @@
+.hex{ -webkit-animation-delay: .3s;}
+.hex2{ -webkit-animation-delay: .5s;}
+.hex3{ -webkit-animation-delay: .7s;}
+.hex4{ -webkit-animation-delay: .9s;}
+
 #pfpog {
 	width:220px;
 	 display: block;
@@ -6,7 +11,13 @@
 	margin-top: 7%;
 	}
 /* buttons for the links */
-
+#pageContent2{
+	margin-top: 3%;
+	width: 70%;
+}
+.pageContentog h1{
+	
+}
 #but1{
 	width: 250px;
 	height: 250px;
@@ -30,10 +41,7 @@
 .row{
 	margin-top: 5%;
 	}
-#but1:hover{
-	background:url('../images/idea8But2.png') top center no-repeat;
-	background-size: 250px 250px;
-	}	
+
 #but2{
 	width: 250px;
 	height: 250px;
@@ -46,10 +54,7 @@
 	background-size: 250px 250px;
 
 	}
-#but2:hover{
-	background:url('../images/drawingBut2.png') top center no-repeat;
-	background-size: 250px 250px;
-	}	
+	
 #but3{
 	width: 250px;
 	height: 250px;

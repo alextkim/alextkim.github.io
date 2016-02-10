@@ -133,7 +133,10 @@ p{
 	#pfp2 {
 	width: 80%;
 	}
-
+	#carouselPlus{
+	width: 40%;
+	margin-top:50px;
+	}
 }
 
 @media only screen and (max-width:768px){
@@ -141,6 +144,10 @@ p{
 	margin-top:1.5%;
 	width: 75%;
 	line-height: 275%;
+	}
+	#carouselPlus{
+	width: 100%;
+	margin-top:50px;
 	}
 }
 
