@@ -26,12 +26,12 @@ body{
 /*this controls the width of page content*/
 #pageContent{
 	margin-top:1.5%;
-	width: 42%;
+	width: 50%;
 	line-height: 275%;
 	}
 #pageContentog{
 	margin-top:4%;
-	width: 42%;
+	width: 50%;
 	line-height: 275%;
 	}
 .container-fluid h1{
@@ -41,6 +41,7 @@ body{
 }
 .container-fluid h3{
 	font-family: 'Open Sans', sans-serif;
+	font-size: 50px;
 	color: #A7A9AC;
 	
 }
@@ -64,7 +65,7 @@ mark{
 .navbar-default .navbar-nav> li>a{
 	color: #A7A9AC;
 	font-size: 18px;
-	font-family: 'PT Serif', serif;
+	
 	
 	}
 	
@@ -159,6 +160,10 @@ padding-bottom: 25%;
 
 
 @media only screen and (max-width:480px){
+#pageContent8{
+	width: 90%;
+	}
+
 #pageContent{
 	margin-top:1.5%;
 	width: 90%;

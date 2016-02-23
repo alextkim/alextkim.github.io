@@ -24,25 +24,37 @@ body{
     margin-right: auto; 
 	margin-top: 7%;
 	}
+#pic{
+	margin-top: 5%;
+	}
 #pfp {
 	width: 80%;
 	display: block;
     margin-left: auto;
     margin-right: auto; 
-	margin-top: 10%;
+	margin-top: 6%;
 	}
 .decorate p{
 	width:80%;
-	margin-left:10%;
-	margin-top: 20%;
+
+	margin-top: 10%;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 25px;
 	color: #939598;
 	
 	}
+#mac {
+	padding-top: 2%;
+	} 
 #name{
-	margin-top: -40%;
+	margin-top: -20%;
+	margin-bottom: -5%;
 
+	}
+#pageContent8{
+	margin-top:5%;
+	width: 50%;
+	line-height: 275%;
 	}
 #pageContent{
 	margin-top:0%
@@ -89,8 +101,15 @@ p{
 
 	
 .container h3{
-	padding-top: 4%;
-	color: #336E7B;
+	padding-top: 14%;
+	color: #7465A7;
+	font-size: 26pt;
+	font-family: 'Open Sans', sans-serif;
+	}
+.container h4{
+	padding-top: 3%;
+	color: #b1a0b7;
+	font-size: 18pt;
 	font-family: 'Open Sans', sans-serif;
 	}
 	
@@ -114,7 +133,9 @@ p{
 	margin-top:-25px;
 	}
 
-	
+mark{
+	background-color: #B1A0B7;
+	}	
 @media only screen and (max-width:510px){
 	#pfp2 {
 	width: 300px;
