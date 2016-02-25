@@ -81,10 +81,14 @@ p{
 	font-family: 'PT Serif', serif;
 	}
 
+#rePix	{
 	
+	padding-top: 5%;
+}
 .container h3{
-	padding-top: 4%;
-	color: #336E7B;
+	padding-top: 7%;
+	color: #FF6600;
+	font-size: 26pt;
 	font-family: 'Open Sans', sans-serif;
 	}
 	
