@@ -1,17 +1,27 @@
 
 #pfpog {
-	width:220px;
+	width:180px;
 	 display: block;
     margin-left: auto;
     margin-right: auto; 
-	margin-top: 7%;
+	margin-top: 3%;
+	margin-bottom:5%;
 	}
 /* buttons for the links */
 #pageContent2{
-	margin-top: 3%;
+	margin-top: 2%;
 	width: 55%;
 }
 
+.info h4 {
+	
+	color: #7F8284;
+	}
+	
+.info h5 {
+
+	color: #A7A9AC;
+	}
 #but1{
 	width: 250px;
 	height: 250px;
@@ -186,11 +196,81 @@ body{
 
 }
 
-@media only screen and (max-width:979px){
-	#pageContent2{
+@media only screen and (max-width:767px){
+.info h5{
+	margin-top:-7px;
+	margin-bottom:37px;
+	}
+
+
+
+	.hex img{
+
+	width: 60%;
+}
+
+	.hex2 img{
+
+	width: 60%;
+}
+
+	.hex3 img{
+
+	width: 60%;
+}
+
+	.hex4 img{
+
+	width: 60%;
+}
+
+
+
+}
+
+@media only screen and (max-width:767px){
+	.hex img{
+
+	width: 75%;
+}
+
+	.hex2 img{
+
+	width: 75%;
+}
+
+	.hex3 img{
+
+	width: 75%;
+}
+
+	.hex4 img{
+
+	width: 75%;
+}
+
+}
+
+
+@media only screen and (max-width:450px){
+	.hex img{
 
 	width: 85%;
 }
 
+	.hex2 img{
+
+	width: 85%;
+}
+
+	.hex3 img{
+
+	width: 85%;
+}
+
+	.hex4 img{
+
+	width: 85%;
+}
 
 }

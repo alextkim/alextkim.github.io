@@ -10,10 +10,13 @@ html, body{
     height: 100%;
 }
 
-
+hr {
+  border-color: #AFB0B2
+}
 
 body{
 	background: url('../images/background.png') center no-repeat;
+
 }
 
 /*this controls the width of nav*/
@@ -41,6 +44,7 @@ body{
 }
 .container-fluid h3{
 	font-family: 'Open Sans', sans-serif;
+	margin-top: -10px;
 	font-size: 30px;
 	color: #A7A9AC;
 	
@@ -53,7 +57,7 @@ body{
 	
 .navbar-default{
 
-	background-color: transparent ;
+	background-color: #231F20 ;
 	border-bottom: none;
 
 	}
@@ -63,41 +67,53 @@ mark{
 	
 	/* THIS CONTROLS THE NAV TEXT */
 .navbar-default .navbar-nav> li>a{
-	color: #A7A9AC;
-	font-size: 18px;
+	color: #5F6264;
+	font-size: 14px;
+	
+	
+	}
+	.navbar-default .navbar-nav> li>a:hover{
+	color: white;
+	font-size: 14px;
 	
 	
 	}
 	
  .navbar-brand,
 .navbar-nav li a{
-	height: 70px;
+	height: 33px;
 	margin-left:1px;
-	
+
 	
 	}
+	
+	.navbar-nav > li > a {
+	padding-top:5px !important; padding-bottom:5px !important;
+	
+	}
+	
+.navbar {
+	min-height:32px !important;	
+	box-shadow: 5px 2px 2px #999;
+}
 
 .navbar-nav li a{
-	line-height:84px;
+	line-height:17px;
 	padding:0 20px;
 	
 }
 .navbar-default .navbar-nav>.active>a{ 
 	background-color: transparent;
+	color: white;
 	
 	}
 	
 .navbar-default .navbar-nav>.active>a:before{
-    content: "";
-    position: absolute;
-    width: 60%;
-    height: 1px;
-    bottom: 10px;
-    left: 20%;
-    border-bottom: 2px solid black;
+   
 }
 .navbar-default .navbar-nav>.active>a:hover{ 
 	background-color: transparent;
+
 	}
 
 
@@ -140,9 +156,7 @@ padding-bottom: 25%;
 	}
 	.navbar-default .navbar-nav> li>a{
 	color: #A7A9AC;
-	font-size: 18px;
-	font-family: 'Didact Gothic', sans-serif;
-	line-height:60px;
+	
 	}
 	.navbar-default .navbar-nav>.active>a{ 
 	background-color: #A7A9AC;
@@ -190,8 +204,9 @@ padding-bottom: 25%;
 	}
 }
 
-@media only screen and (max-width:320px){
+@media only screen and (max-width:767px){
 	#logo{
-	width:220px;
+	width:60px;
+	margin-top: 10px;
 	}
 }
