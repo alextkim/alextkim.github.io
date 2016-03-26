@@ -27,11 +27,11 @@ input[type=email]{
 	margin-top: 1%;
 	}
   
- h3{
-	
-	
-	font-size:20;
-	color: #336E7B;
+.email h3{
+	margin-bottom:1px;
+	margin-top:8px;
+	font-size:16px;
+	color: black;
 	font-family: 'Open Sans', sans-serif;
 	}
   
@@ -49,10 +49,10 @@ input[type=email]{
 	width: 80px;
 	float: right;
 	background-color: white;
-	border: 1.5px solid #A7A9AC;
+	border: 1.5px solid black;
 	font-size: 20px;
 	font-family: 'Open Sans', sans-serif;
-	color: #A7A9AC;
+	color: black;
 	border-radius: 3pt;
 	margin-top:1%;
   }
@@ -62,10 +62,10 @@ input[type=email]{
 	}
 	
 .container-fluid h1{
-	color: #A7A9AC;
+	color: black;
 	text-align: center;
 	font-size: 40px;
-	padding-top:3%;
+	padding-top:0%;
 	font-family: 'Open Sans', sans-serif;
 	}
 	
