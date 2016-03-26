@@ -14,10 +14,6 @@ hr {
   border-color: #AFB0B2
 }
 
-body{
-	background: url('../images/background.png') center no-repeat;
-
-}
 
 /*this controls the width of nav*/
 #containerTop{
@@ -67,7 +63,7 @@ mark{
 	
 	/* THIS CONTROLS THE NAV TEXT */
 .navbar-default .navbar-nav> li>a{
-	color: #5F6264;
+	color: #707476;
 	font-size: 14px;
 	
 	
