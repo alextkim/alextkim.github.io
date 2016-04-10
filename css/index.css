@@ -58,7 +58,7 @@
 	background-size: 250px 250px;
 
 	}
-	
+
 #but3{
 	width: 250px;
 	height: 250px;
@@ -191,7 +191,10 @@ p{
 	width: 85%;
 }
 
-
+#containerTop{
+	margin-top: .5%;
+	width: 85%;
+}
 }
 
 @media only screen and (max-width:767px){

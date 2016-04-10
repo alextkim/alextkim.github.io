@@ -18,14 +18,14 @@ hr {
 /*this controls the width of nav*/
 #containerTop{
 	margin-top: .5%;
-	width: 75%;
+	width: 55%;
 }
 
 
 /*this controls the width of page content*/
 #pageContent{
 	margin-top:1.5%;
-	width: 50%;
+	width: 55%;
 	line-height: 275%;
 	}
 #pageContentog{
