@@ -120,6 +120,10 @@ p{
 	width: 60%;
 	}
 	
+.container-fluid h3{
+letter-spacing: 7.25px;
+}
+
 /* media1 stuff */
 
 @media only screen and (max-width:1403px){
