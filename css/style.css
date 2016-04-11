@@ -37,10 +37,12 @@ hr {
 	font-family: 'Open Sans', sans-serif;
 	color: #A7A9AC;
 	font-size: 50px;
+	margin-top: -10px;
 }
 .container-fluid h3{
 	font-family: 'Open Sans', sans-serif;
-	margin-top: -10px;
+	letter-spacing: 7.25px;
+	margin-top: -5px;
 	font-size: 30px;
 	color: #A7A9AC;
 	
