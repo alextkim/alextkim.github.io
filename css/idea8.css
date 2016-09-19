@@ -1,9 +1,32 @@
+#pageContentHm h4{
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 2%;
+
+}
+
+#pageContentHm h3{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+
+}
+
+#pageContentHm2 h3{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+
+}
 
 
+
+#pageContentHm {
+	margin-top: 2%;
+	
+}
 
 #button{
 	padding-top: 10%;
 	}
+
 #link{
 	margin-top:10%;
 	}
@@ -50,9 +73,9 @@
 
 	}
 #pageContent8{
-	margin-top:5%;
+	margin-top:2%;
 	width: 55%;
-	line-height: 275%;
+
 	}
 #pageContent{
 	margin-top:0%

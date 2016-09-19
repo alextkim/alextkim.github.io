@@ -8,16 +8,20 @@
 
 html, body{
     height: 100%;
+ 
 }
 
 hr {
   border-color: #AFB0B2
 }
-
+#logo{
+	width:200px;
+	margin-top: -30px;
+	}
 
 /*this controls the width of nav*/
 #containerTop{
-	margin-top: .5%;
+	margin-top: 3%;
 	width: 55%;
 }
 
@@ -40,7 +44,7 @@ hr {
 	margin-top: -10px;
 }
 .container-fluid h3{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	
 	margin-top: -5px;
 	font-size: 30px;
@@ -55,8 +59,8 @@ hr {
 	
 .navbar-default{
 
-	background-color: #231F20 ;
-	border-bottom: none;
+	background-color: transparent; ;
+	box-shadow: 10px .5px 20px #D2D7D3;
 
 	}
 mark{
@@ -65,17 +69,30 @@ mark{
 	
 	/* THIS CONTROLS THE NAV TEXT */
 .navbar-default .navbar-nav> li>a{
-	color: #707476;
+	line-height: 50%;
+	font-family: 'Montserrat', sans-serif;
+	color: grey;
 	font-size: 14px;
 	
 	
 	}
 	.navbar-default .navbar-nav> li>a:hover{
-	color: white;
+	color: black;
 	font-size: 14px;
-	
-	
-	}
+	display: inline-block;
+    padding-bottom: 5px;
+    position: relative;
+   	}
+
+   	.navbar-default .navbar-nav> li>a:hover:before{
+	content: "";
+    position: absolute;
+    width: 60%;
+    height: 1px;
+    bottom: 7px;
+    left: 20%;
+    border-bottom: 3px solid #DADFE1; 
+}
 	
  .navbar-brand,
 .navbar-nav li a{
@@ -90,34 +107,68 @@ mark{
 	
 	}
 	
-.navbar {
-	min-height:32px !important;	
-	box-shadow: 5px 2px 2px #999;
-}
 
 .navbar-nav li a{
-	line-height:20px;
+	
 	padding:0 20px;
 	
 }
 .navbar-default .navbar-nav>.active>a{ 
 	background-color: transparent;
-	color: white;
-	
+	 display: inline-block;
+    padding-bottom: 5px;
+    position: relative;
 	}
 	
+
+
 .navbar-default .navbar-nav>.active>a:before{
+	content: "";
+    position: absolute;
+    width: 60%;
+    height: 1px;
+    bottom: 7px;
+    left: 20%;
+    border-bottom: 3px solid black;
    
 }
 .navbar-default .navbar-nav>.active>a:hover{ 
 	background-color: transparent;
-	color: white;
-
+	display: inline-block;
+    padding-bottom: 5px;
+    position: relative;
 	}
+
+
+.navbar-default .navbar-nav>.active>a:hover:before{
+	content: "";
+    position: absolute;
+    width: 60%;
+    height: 1px;
+    bottom: 7px;
+    left: 20%;
+    border-bottom: 3px solid black;
+   
+}
 
 
 .bottom{
 padding-bottom: 25%;
+}
+
+
+@media only screen and (max-width:1295px){
+
+	#logo{
+	width:170px;
+	margin-top: 0px;
+	}
+.navbar-default .navbar-nav> li>a{
+
+	line-height: 170%;
+
+}
+
 }
 @media only screen and (max-width:979px){
 	.container-fluid h1{
@@ -205,7 +256,7 @@ padding-bottom: 25%;
 
 @media only screen and (max-width:767px){
 	#logo{
-	width:60px;
+	width:170px;
 	margin-top: 10px;
 	}
 }

@@ -9,7 +9,7 @@
 	}
 /* buttons for the links */
 #pageContent2{
-	margin-top: 2%;
+	margin-top: -1%;
 	width: 55%;
 }
 
@@ -121,7 +121,9 @@ p{
 	}
 	
 .container-fluid h3{
-letter-spacing: 7.25px;
+
+font-size: 30px;	
+letter-spacing: 0px;
 }
 
 /* media1 stuff */

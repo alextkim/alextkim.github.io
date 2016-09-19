@@ -46,7 +46,7 @@
 	
 	}
 .stuff{
-	margin-top: 0%;
+	margin-top: 3%;
 	}
 
 #name{
@@ -81,7 +81,7 @@ p{
 
 #rePix	{
 	
-	padding-top: 5%;
+	padding-top: 3%;
 }
 .container h3{
 	padding-top: 7%;
@@ -92,17 +92,334 @@ p{
 	
 	/* extra pics*/
 #carouselPlus{
-	width: 32%;
-	margin-top:50px;
-	}
-
-#carousel{
+	width: 30%;
+	margin-top: 5%;
 
 	
 	}
-.thmb1, .thmb2, .thmb3, .thmb4, .thmb5{	
-	margin-bottom:40px;
+
+#carousel{
+ 	
+	
 	}
+.thmb1, .thmb2, .thmb3, .thmb4, .thmb5{	
+	margin-bottom:10px;
+
+	}
+
+#but1{
+	width: 180px;
+	height: 180px;
+	background:url('../thm/thmChillin.png') top center no-repeat;
+	border: none;
+	background-size: 180px 180px;
+	-webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+
+	
+	}
+
+#but1:hover{
+	margin: -5px; 
+	background:url('../thm/thmChillin.png') top center no-repeat;
+	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
+    -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
+    box-shadow: 10px 10px 5px 2px #ECECEC;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+
+
+}
+
+#but2{
+	width: 180px;
+	height: 180px;
+	transition: background 0.8s ease;
+	background:url('../thm/thmGet.png') top center no-repeat;
+	border: none;
+	background-size: 180px 180px;
+	-webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+
+	
+	}
+
+#but2:hover{
+	margin: -5px; 
+	background:url('../thm/thmGet.png') top center no-repeat;
+	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
+    -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
+    box-shadow: 10px 10px 5px 2px #ECECEC;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+
+}
+#but3{
+	width: 180px;
+	height: 180px;
+	transition: background 0.8s ease;
+	background:url('../thm/thmFireWerk.png') top center no-repeat;
+	border: none;
+	background-size: 180px 180px;
+	-webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	
+	}
+
+#but3:hover{
+	margin: -5px; 
+	background:url('../thm/thmFireWerk.png') top center no-repeat;
+	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
+    -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
+    box-shadow: 10px 10px 5px 2px #ECECEC;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+
+}
+#but4{
+
+	width: 180px;
+	height: 180px;
+	transition: background 0.8s ease;
+	background:url('../thm/thmTim.png ') top center no-repeat;
+	border: none;
+	background-size: 180px 180px;
+	-webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	
+	}
+
+#but4:hover{
+	margin: -5px; 
+	background:url('../thm/thmTim.png ') top center no-repeat;
+ -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
+    -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
+    box-shadow: 10px 10px 5px 2px #ECECEC;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+
+}
+#but5{
+	width: 180px;
+	height: 180px;
+	transition: background 0.8s ease;
+	background:url('../thm/thmSearching.png') top center no-repeat;
+	border: none;
+	background-size: 180px 180px;
+	-webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	
+	
+	}
+
+#but5:hover{
+	margin: -5px; 
+	background:url('../thm/thmSearching.png') top center no-repeat;
+	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
+    -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
+    box-shadow: 10px 10px 5px 2px #ECECEC;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+
+}
+
+#but6{
+	width: 180px;
+	height: 180px;
+	transition: background 0.8s ease;
+	background:url('../thm/thmNightSky.png') top center no-repeat;
+		border: none;
+	background-size: 180px 180px;
+	-webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	
+	}
+
+#but6:hover{
+	margin: -5px; 
+	background:url('../thm/thmNightSky.png') top center no-repeat;
+	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
+    -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
+    box-shadow: 10px 10px 5px 2px #ECECEC;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+
+
+}
+
+#but7{
+	width: 180px;
+	height: 180px;
+	transition: background 0.8s ease;
+	background:url('../thm/thmSpitFire.png') top center no-repeat;
+		border: none;
+	background-size: 180px 180px;
+	-webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	
+	}
+
+#but7:hover{
+	margin: -5px; 
+	background:url('../thm/thmSpitFire.png') top center no-repeat;
+	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
+    -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
+    box-shadow: 10px 10px 5px 2px #ECECEC;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+
+}
+
+
+#but8{
+	width: 180px;
+	height: 180px;
+	transition: background 0.8s ease;
+	background:url('../thm/thmRetreat.png') top center no-repeat;
+	border: none;
+	background-size: 180px 180px;
+	-webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	
+	}
+
+#but8:hover{
+	margin: -5px; 
+	background:url('../thm/thmRetreat.png') top center no-repeat;
+		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
+    -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
+    box-shadow: 10px 10px 5px 2px #ECECEC;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+
+}
+
+#but9{
+	width: 180px;
+	height: 180px;
+	transition: background 0.8s ease;
+	background:url('../thm/thmFnf.png') top center no-repeat;
+	border: none;
+	background-size: 180px 180px;
+	-webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	
+	}
+
+#but9:hover{
+	margin: -5px; 
+	background:url('../thm/thmFnf.png') top center no-repeat;
+		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
+    -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
+    box-shadow: 10px 10px 5px 2px #ECECEC;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+
+}
+
+
+.#block{
+	width: 1000px ;
+}
 
 
 
@@ -123,7 +440,55 @@ p{
 	}
 	
 
-	
+@media only screen and (max-width:1743px){
+
+	#carouselPlus{
+	width: 35%;
+	}
+}
+
+@media only screen and (max-width:1618px){
+
+	#carouselPlus{
+	width: 43%;
+	}
+}
+
+@media only screen and (max-width:1377px){
+
+	#carouselPlus{
+	width: 45%;
+	}
+}
+
+@media only screen and (max-width:1299px){
+
+	#carouselPlus{
+	width: 47%;
+	}
+}
+
+@media only screen and (max-width:1205px){
+
+	#carouselPlus{
+	width: 50%;
+	}
+}
+
+@media only screen and (max-width:1101px){
+
+	#carouselPlus{
+	width: 55%;
+	}
+}
+
+@media only screen and (max-width:1050px){
+
+	#carouselPlus{
+	width: 57%;
+	}
+}
+
 
 @media only screen and (max-width:979px){
 	#pageContent2{
@@ -136,7 +501,7 @@ p{
 	width: 80%;
 	}
 	#carouselPlus{
-	width: 40%;
+	width: 70%;
 	margin-top:50px;
 	}
 }
@@ -148,7 +513,7 @@ p{
 	line-height: 275%;
 	}
 	#carouselPlus{
-	width: 100%;
+	width: 80%;
 	margin-top:50px;
 	}
 }
@@ -159,4 +524,8 @@ p{
 	width: 90%;
 	line-height: 275%;
 	}
+
+	#carousel{
+	margin-top:10%;
+}
 }
