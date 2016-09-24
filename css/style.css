@@ -60,7 +60,7 @@ hr {
 .navbar-default{
 
 	background-color: transparent; ;
-	box-shadow: 10px .5px 20px #D2D7D3;
+	  border-color: transparent;
 
 	}
 mark{
@@ -69,7 +69,7 @@ mark{
 	
 	/* THIS CONTROLS THE NAV TEXT */
 .navbar-default .navbar-nav> li>a{
-	line-height: 50%;
+	line-height: 100%;
 	font-family: 'Montserrat', sans-serif;
 	color: grey;
 	font-size: 14px;
