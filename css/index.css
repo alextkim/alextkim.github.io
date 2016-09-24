@@ -13,6 +13,9 @@
 	width: 55%;
 }
 
+.info{
+margin-top: 27px;
+}
 .info h4 {
 	
 	color: #7F8284;
@@ -42,8 +45,8 @@
 
     padding: 0; 
 }
-.row{
-	margin-top: 5%;
+#pageContent2{
+	margin-top: 2%;
 	}
 
 #but2{
