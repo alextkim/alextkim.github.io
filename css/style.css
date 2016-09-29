@@ -91,7 +91,7 @@ mark{
     height: 1px;
     bottom: 7px;
     left: 20%;
-    border-bottom: 3px solid #DADFE1; 
+    border-bottom: 2.5px solid #DADFE1; 
 }
 	
  .navbar-brand,
@@ -126,10 +126,10 @@ mark{
 	content: "";
     position: absolute;
     width: 60%;
-    height: 1px;
+    height: 10px;
     bottom: 7px;
     left: 20%;
-    border-bottom: 3px solid black;
+    border-bottom: 2.5px solid black;
    
 }
 .navbar-default .navbar-nav>.active>a:hover{ 
@@ -147,7 +147,7 @@ mark{
     height: 1px;
     bottom: 7px;
     left: 20%;
-    border-bottom: 3px solid black;
+    border-bottom: 2.5px solid black;
    
 }
 
@@ -165,9 +165,19 @@ padding-bottom: 25%;
 	}
 .navbar-default .navbar-nav> li>a{
 
-	line-height: 170%;
+	line-height: 350%;
 
 }
+
+.navbar-default .navbar-nav>.active>a:before{
+	content: "";
+    position: absolute;
+    width: 60%;
+    height: 10px;
+    bottom: -10px;
+
+
+
 
 }
 @media only screen and (max-width:979px){
