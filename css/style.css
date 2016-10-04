@@ -70,15 +70,15 @@ mark{
 	/* THIS CONTROLS THE NAV TEXT */
 .navbar-default .navbar-nav> li>a{
 	line-height: 100%;
-
+	font-family: 'Montserrat', sans-serif;
 	color: grey;
-	font-size: 15px;
+	font-size: 14px;
 	
 	
 	}
 	.navbar-default .navbar-nav> li>a:hover{
 	color: black;
-	font-size: 15px;
+	font-size: 14px;
 	display: inline-block;
     padding-bottom: 5px;
     position: relative;
