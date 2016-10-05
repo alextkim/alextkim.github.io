@@ -162,7 +162,7 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmGet.png') top center no-repeat;
+	background:url('../thm/thmUCS.png') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -177,7 +177,7 @@ p{
 
 #but2:hover{
 	margin: -5px; 
-	background:url('../thm/thmGet.png') top center no-repeat;
+	background:url('../thm/thmUCS.png') top center no-repeat;
 	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
