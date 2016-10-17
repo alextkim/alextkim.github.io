@@ -49,8 +49,8 @@
 	margin-top:2%
 	}
 #pageContent ol{
-	font-size:18px;
-	font-family: 'PT Serif', serif;
+	font-size:20px;
+
 	}
 .decorate p{
 	width:80%;
@@ -90,9 +90,10 @@
 	
 
 p{
-	font-size: 19px;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 20px;
 	padding-top:1%;
-	font-family: 'PT Serif', serif;
+
 	}
 
 #rePix	{

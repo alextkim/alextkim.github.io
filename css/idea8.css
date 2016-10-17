@@ -10,6 +10,11 @@
 
 }
 
+#pageContent8 p{
+	line-height: 200%;
+
+}
+
 #pageContent h3{
 	font-family: 'Montserrat', sans-serif;
 	font-size: 40px;
@@ -101,7 +106,7 @@
 	}
 	ol{
 	font-size:18px;
-	font-family: 'PT Serif', serif;
+
 	}
 #info{ 
 	margin-top: 5%;
@@ -115,9 +120,10 @@
 	}
 	
 p{
-	font-size: 19px;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 20px;
 	padding-top:1%;
-	font-family: 'PT Serif', serif;
+
 	}
 
 	
