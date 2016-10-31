@@ -37,9 +37,9 @@ letter-spacing: 0px;
 .email h3{
 	margin-bottom:1px;
 	margin-top:8px;
-	font-size:16px;
+	font-size:20px;
 	color: black;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	}
   
  textarea{
@@ -58,7 +58,7 @@ letter-spacing: 0px;
 	background-color: white;
 	border: none;
 	font-size: 20px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	color: black;
 	border-radius: 3pt;
 	margin-top:1%;
@@ -70,7 +70,7 @@ letter-spacing: 0px;
 	text-align: center;
 	font-size: 40px;
 	padding-top:0%;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	}
 	
 @media only screen and (max-width:480px){
