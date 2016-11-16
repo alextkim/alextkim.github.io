@@ -109,7 +109,7 @@ p{
 	
 	/* extra pics*/
 #carouselPlus{
-	width: 30%;
+	width: 43%;
 	margin-top: 5%;
 
 	
@@ -127,7 +127,7 @@ p{
 #but1{
 	width: 180px;
 	height: 180px;
-	background:url('../thm/thmChillin.png') top center no-repeat;
+	background:url('../thm/thmFireWerk.png') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -142,7 +142,7 @@ p{
 
 #but1:hover{
 	margin: -5px; 
-	background:url('../thm/thmChillin.png') top center no-repeat;
+	background:url('../thm/thmFireWerk.png') top center no-repeat;
 	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
@@ -163,7 +163,7 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmUCS.png') top center no-repeat;
+	background:url('../thm/thmRetreat.png') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -178,7 +178,7 @@ p{
 
 #but2:hover{
 	margin: -5px; 
-	background:url('../thm/thmUCS.png') top center no-repeat;
+	background:url('../thm/thmRetreat.png') top center no-repeat;
 	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
@@ -197,7 +197,7 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmFireWerk.png') top center no-repeat;
+	background:url('../thm/thmNightSky.png') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -211,7 +211,7 @@ p{
 
 #but3:hover{
 	margin: -5px; 
-	background:url('../thm/thmFireWerk.png') top center no-repeat;
+	background:url('../thm/thmNightSky.png') top center no-repeat;
 	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
@@ -231,7 +231,7 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmTim.png ') top center no-repeat;
+	background:url('../thm/thmSearching.png ') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -245,7 +245,7 @@ p{
 
 #but4:hover{
 	margin: -5px; 
-	background:url('../thm/thmTim.png ') top center no-repeat;
+	background:url('../thm/thmSearching.png ') top center no-repeat;
  -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
@@ -264,7 +264,7 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmSearching.png') top center no-repeat;
+	background:url('../thm/thmUcsWeek.png') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -279,7 +279,7 @@ p{
 
 #but5:hover{
 	margin: -5px; 
-	background:url('../thm/thmSearching.png') top center no-repeat;
+	background:url('../thm/thmUcsWeek.png') top center no-repeat;
 	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
@@ -299,7 +299,7 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmNightSky.png') top center no-repeat;
+	background:url('../thm/thmMarketing.png') top center no-repeat;
 		border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -313,7 +313,7 @@ p{
 
 #but6:hover{
 	margin: -5px; 
-	background:url('../thm/thmNightSky.png') top center no-repeat;
+	background:url('../thm/thmMarketing.png') top center no-repeat;
 	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
@@ -334,7 +334,7 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmSpitFire.png') top center no-repeat;
+	background:url('../thm/thmTim.png') top center no-repeat;
 		border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -348,7 +348,7 @@ p{
 
 #but7:hover{
 	margin: -5px; 
-	background:url('../thm/thmSpitFire.png') top center no-repeat;
+	background:url('../thm/thmTim.png') top center no-repeat;
 	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
@@ -369,7 +369,7 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmRetreat.png') top center no-repeat;
+	background:url('../thm/thmUCS.png') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -383,7 +383,7 @@ p{
 
 #but8:hover{
 	margin: -5px; 
-	background:url('../thm/thmRetreat.png') top center no-repeat;
+	background:url('../thm/thmUCS.png') top center no-repeat;
 		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
@@ -403,7 +403,7 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmFnf.png') top center no-repeat;
+	background:url('../thm/thmSpitFire.png') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -416,6 +416,77 @@ p{
 	}
 
 #but9:hover{
+	margin: -5px; 
+	background:url('../thm/thmSpitFire.png') top center no-repeat;
+		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
+    -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
+    box-shadow: 10px 10px 5px 2px #ECECEC;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+
+}
+
+
+
+
+#but10{
+	width: 180px;
+	height: 180px;
+	transition: background 0.8s ease;
+	background:url('../thm/thmChillin.png') top center no-repeat;
+	border: none;
+	background-size: 180px 180px;
+	-webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	
+	}
+
+#but10:hover{
+	margin: -5px; 
+	background:url('../thm/thmChillin.png') top center no-repeat;
+		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
+    -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
+    box-shadow: 10px 10px 5px 2px #ECECEC;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+
+}
+
+#but11{
+	width: 180px;
+	height: 180px;
+	transition: background 0.8s ease;
+	background:url('../thm/thmFnf.png') top center no-repeat;
+	border: none;
+	background-size: 180px 180px;
+	-webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	
+	}
+
+#but11:hover{
 	margin: -5px; 
 	background:url('../thm/thmFnf.png') top center no-repeat;
 		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
@@ -432,6 +503,44 @@ p{
 	background-size: 180px 180px;
 
 }
+#but12{
+	width: 180px;
+	height: 180px;
+
+	position: relative;
+	transition: background 0.8s ease;
+	background:url('../thm/thmKrispy.png') top center no-repeat;
+	border: none;
+	background-size: 180px 180px;
+	-webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	
+	}
+
+#but12:hover{
+	margin: -5px; 
+	background:url('../thm/thmKrispy.png') top center no-repeat;
+		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
+    -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
+    box-shadow: 10px 10px 5px 2px #ECECEC;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+
+}
+
+
+
 
 
 .#block{
@@ -460,52 +569,66 @@ p{
 @media only screen and (max-width:1743px){
 
 	#carouselPlus{
-	width: 35%;
+	width: 47.5%;
 	}
 }
 
 @media only screen and (max-width:1618px){
 
 	#carouselPlus{
-	width: 43%;
+	width: 51%;
 	}
 }
 
-@media only screen and (max-width:1377px){
+@media only screen and (max-width:1483px){
 
 	#carouselPlus{
-	width: 45%;
+	width: 53%;
 	}
 }
 
-@media only screen and (max-width:1299px){
-
-	#carouselPlus{
-	width: 47%;
-	}
-}
-
-@media only screen and (max-width:1205px){
-
-	#carouselPlus{
-	width: 50%;
-	}
-}
-
-@media only screen and (max-width:1101px){
-
-	#carouselPlus{
-	width: 55%;
-	}
-}
-
-@media only screen and (max-width:1050px){
+@media only screen and (max-width:1455px){
 
 	#carouselPlus{
 	width: 57%;
 	}
 }
 
+@media only screen and (max-width:1361px){
+
+	#carouselPlus{
+	width: 60%;
+	}
+}
+
+@media only screen and (max-width:1260px){
+
+	#carouselPlus{
+	width: 65%;
+	}
+}
+
+@media only screen and (max-width:1169px){
+
+	#carouselPlus{
+	width: 70%;
+	}
+}
+
+
+@media only screen and (max-width:1077px){
+
+	#carouselPlus{
+	width: 75%;
+	}
+}
+
+@media only screen and (max-width:1012px){
+
+	#carouselPlus{
+	width: 80%;
+	}
+}
 
 @media only screen and (max-width:979px){
 	#pageContent2{
@@ -518,20 +641,28 @@ p{
 	width: 80%;
 	}
 	#carouselPlus{
-	width: 70%;
+	width: 85%;
 	margin-top:50px;
 	}
 }
 
-@media only screen and (max-width:768px){
+@media only screen and (max-width:865px){
 	#pageContent2{
 	margin-top:1.5%;
 	width: 75%;
 	line-height: 275%;
 	}
 	#carouselPlus{
-	width: 80%;
+	width: 90%;
 	margin-top:50px;
+	}
+}
+
+
+@media only screen and (max-width:1169px){
+
+	#carouselPlus{
+	width: 95%;
 	}
 }
 
