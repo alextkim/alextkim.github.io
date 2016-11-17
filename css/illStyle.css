@@ -110,7 +110,7 @@ p{
 	/* extra pics*/
 #carouselPlus{
 	width: 43%;
-	margin-top: 5%;
+	margin-top: 2%;
 
 	
 	}
@@ -264,7 +264,7 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmUcsWeek.png') top center no-repeat;
+	background:url('../thm/thmBanquet.png') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -279,7 +279,7 @@ p{
 
 #but5:hover{
 	margin: -5px; 
-	background:url('../thm/thmUcsWeek.png') top center no-repeat;
+	background:url('../thm/thmBanquet.png') top center no-repeat;
 	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
@@ -299,7 +299,7 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmMarketing.png') top center no-repeat;
+	background:url('../thm/thmUcsWeek.png') top center no-repeat;
 		border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -313,7 +313,7 @@ p{
 
 #but6:hover{
 	margin: -5px; 
-	background:url('../thm/thmMarketing.png') top center no-repeat;
+	background:url('../thm/thmUcsWeek.png') top center no-repeat;
 	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
@@ -334,7 +334,7 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmTim.png') top center no-repeat;
+	background:url('../thm/thmMarketing.png') top center no-repeat;
 		border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -348,7 +348,7 @@ p{
 
 #but7:hover{
 	margin: -5px; 
-	background:url('../thm/thmTim.png') top center no-repeat;
+	background:url('../thm/thmMarketing.png') top center no-repeat;
 	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
@@ -369,7 +369,7 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmUCS.png') top center no-repeat;
+	background:url('../thm/thmTim.png') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -383,7 +383,7 @@ p{
 
 #but8:hover{
 	margin: -5px; 
-	background:url('../thm/thmUCS.png') top center no-repeat;
+	background:url('../thm/thmTim.png') top center no-repeat;
 		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
@@ -403,7 +403,7 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmSpitFire.png') top center no-repeat;
+	background:url('../thm/thmSystran.png') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -417,7 +417,7 @@ p{
 
 #but9:hover{
 	margin: -5px; 
-	background:url('../thm/thmSpitFire.png') top center no-repeat;
+	background:url('../thm/thmSystran.png') top center no-repeat;
 		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
@@ -440,7 +440,7 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmChillin.png') top center no-repeat;
+	background:url('../thm/thmUCS.png') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -454,7 +454,7 @@ p{
 
 #but10:hover{
 	margin: -5px; 
-	background:url('../thm/thmChillin.png') top center no-repeat;
+	background:url('../thm/thmUCS.png') top center no-repeat;
 		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
@@ -474,7 +474,7 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmFnf.png') top center no-repeat;
+	background:url('../thm/thmFrench.png') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
 	-webkit-transition: all .3s linear;
@@ -487,6 +487,137 @@ p{
 	}
 
 #but11:hover{
+	margin: -5px; 
+	background:url('../thm/thmFrench.png') top center no-repeat;
+		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
+    -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
+    box-shadow: 10px 10px 5px 2px #ECECEC;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+}
+
+
+#but12{
+	width: 180px;
+	height: 180px;
+	transition: background 0.8s ease;
+	background:url('../thm/thmSpitFire.png') top center no-repeat;
+	border: none;
+	background-size: 180px 180px;
+	-webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	
+	}
+
+#but12:hover{
+	margin: -5px; 
+	background:url('../thm/thmSpitFire.png') top center no-repeat;
+		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
+    -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
+    box-shadow: 10px 10px 5px 2px #ECECEC;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+}#but13{
+	width: 180px;
+	height: 180px;
+	transition: background 0.8s ease;
+	background:url('../thm/thmTablingFlyerDemo.png') top center no-repeat;
+	border: none;
+	background-size: 180px 180px;
+	-webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	
+	}
+
+#but13:hover{
+	margin: -5px; 
+	background:url('../thm/thmTablingFlyerDemo.png') top center no-repeat;
+		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
+    -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
+    box-shadow: 10px 10px 5px 2px #ECECEC;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+
+}#but14{
+	width: 180px;
+	height: 180px;
+	transition: background 0.8s ease;
+	background:url('../thm/thmChillin.png') top center no-repeat;
+	border: none;
+	background-size: 180px 180px;
+	-webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	
+	}
+
+#but14:hover{
+	margin: -5px; 
+	background:url('../thm/thmChillin.png') top center no-repeat;
+		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
+    -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
+    box-shadow: 10px 10px 5px 2px #ECECEC;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	width: 180px;
+	height: 180px;
+	background-size: 180px 180px;
+}
+
+
+#but15{
+	width: 180px;
+	height: 180px;
+	transition: background 0.8s ease;
+	background:url('../thm/thmFnf.png') top center no-repeat;
+	border: none;
+	background-size: 180px 180px;
+	-webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -kthtml-transition: all .3s linear;
+    transition: all .3s linear;
+	
+	}
+
+#but15:hover{
 	margin: -5px; 
 	background:url('../thm/thmFnf.png') top center no-repeat;
 		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
@@ -502,7 +633,7 @@ p{
 	height: 180px;
 	background-size: 180px 180px;
 }
-#but12{
+#but16{
 	width: 180px;
 	height: 180px;
 
@@ -520,7 +651,7 @@ p{
 	
 	}
 
-#but12:hover{
+#but16:hover{
 	margin: -5px; 
 	background:url('../thm/thmKrispy.png') top center no-repeat;
 		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
