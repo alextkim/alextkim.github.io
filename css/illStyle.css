@@ -127,31 +127,31 @@ p{
 #but1{
 	width: 180px;
 	height: 180px;
-	background:url('../thm/thmFireWerk.png') top center no-repeat;
+	background:url('../thm/thmFireWerk.jpg') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
-	-webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 
 	
 	}
 
 #but1:hover{
 	margin: -5px; 
-	background:url('../thm/thmFireWerk.png') top center no-repeat;
+	background:url('../thm/thmFireWerk.jpg') top center no-repeat;
 	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
-    -webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+    -webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15s linear;
+    transition: all .15s linear;
 	width: 180px;
 	height: 180px;
 	background-size: 180px 180px;
@@ -163,31 +163,31 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmRetreat.png') top center no-repeat;
+	background:url('../thm/thmRetreat.jpg') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
-	-webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+		-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 
 	
 	}
 
 #but2:hover{
 	margin: -5px; 
-	background:url('../thm/thmRetreat.png') top center no-repeat;
+	background:url('../thm/thmRetreat.jpg') top center no-repeat;
 	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
-    -webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+    	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	width: 180px;
 	height: 180px;
 	background-size: 180px 180px;
@@ -197,30 +197,30 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmNightSky.png') top center no-repeat;
+	background:url('../thm/thmNightSky.jpg') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
-	-webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+		-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	
 	}
 
 #but3:hover{
 	margin: -5px; 
-	background:url('../thm/thmNightSky.png') top center no-repeat;
+	background:url('../thm/thmNightSky.jpg') top center no-repeat;
 	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
-    -webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+ 	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	width: 180px;
 	height: 180px;
 	background-size: 180px 180px;
@@ -231,30 +231,30 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmSearching.png ') top center no-repeat;
+	background:url('../thm/thmSearching.jpg ') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
-	-webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+		-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	
 	}
 
 #but4:hover{
 	margin: -5px; 
-	background:url('../thm/thmSearching.png ') top center no-repeat;
+	background:url('../thm/thmSearching.jpg ') top center no-repeat;
  -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
-    -webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	width: 180px;
 	height: 180px;
 	background-size: 180px 180px;
@@ -264,31 +264,31 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmBanquet.png') top center no-repeat;
+	background:url('../thm/thmBanquet.jpg') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
-	-webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+		-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	
 	
 	}
 
 #but5:hover{
 	margin: -5px; 
-	background:url('../thm/thmBanquet.png') top center no-repeat;
+	background:url('../thm/thmBanquet.jpg') top center no-repeat;
 	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
-    -webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+   	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	width: 180px;
 	height: 180px;
 	background-size: 180px 180px;
@@ -299,30 +299,30 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmUcsWeek.png') top center no-repeat;
+	background:url('../thm/thmUcsWeek.jpg') top center no-repeat;
 		border: none;
 	background-size: 180px 180px;
-	-webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	
 	}
 
 #but6:hover{
 	margin: -5px; 
-	background:url('../thm/thmUcsWeek.png') top center no-repeat;
+	background:url('../thm/thmUcsWeek.jpg') top center no-repeat;
 	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
-    -webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	width: 180px;
 	height: 180px;
 	background-size: 180px 180px;
@@ -334,30 +334,30 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmMarketing.png') top center no-repeat;
+	background:url('../thm/thmMarketing.jpg') top center no-repeat;
 		border: none;
 	background-size: 180px 180px;
-	-webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+		-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	
 	}
 
 #but7:hover{
 	margin: -5px; 
-	background:url('../thm/thmMarketing.png') top center no-repeat;
+	background:url('../thm/thmMarketing.jpg') top center no-repeat;
 	 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
-    -webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+ 	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	width: 180px;
 	height: 180px;
 	background-size: 180px 180px;
@@ -369,30 +369,30 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmTim.png') top center no-repeat;
+	background:url('../thm/thmTim.jpg') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
-	-webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	
 	}
 
 #but8:hover{
 	margin: -5px; 
-	background:url('../thm/thmTim.png') top center no-repeat;
+	background:url('../thm/thmTim.jpg') top center no-repeat;
 		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
-    -webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	width: 180px;
 	height: 180px;
 	background-size: 180px 180px;
@@ -403,30 +403,30 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmSystran.png') top center no-repeat;
+	background:url('../thm/thmSystran.jpg') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
-	-webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	
 	}
 
 #but9:hover{
 	margin: -5px; 
-	background:url('../thm/thmSystran.png') top center no-repeat;
+	background:url('../thm/thmSystran.jpg') top center no-repeat;
 		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
-    -webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	width: 180px;
 	height: 180px;
 	background-size: 180px 180px;
@@ -440,30 +440,30 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmUCS.png') top center no-repeat;
+	background:url('../thm/thmUCS.jpg') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
-	-webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	
 	}
 
 #but10:hover{
 	margin: -5px; 
-	background:url('../thm/thmUCS.png') top center no-repeat;
+	background:url('../thm/thmUCS.jpg') top center no-repeat;
 		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
-    -webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+ 	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	width: 180px;
 	height: 180px;
 	background-size: 180px 180px;
@@ -474,30 +474,30 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmFrench.png') top center no-repeat;
+	background:url('../thm/thmFrench.jpg') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
-	-webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+		-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	
 	}
 
 #but11:hover{
 	margin: -5px; 
-	background:url('../thm/thmFrench.png') top center no-repeat;
+	background:url('../thm/thmFrench.jpg') top center no-repeat;
 		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
-    -webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+  	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	width: 180px;
 	height: 180px;
 	background-size: 180px 180px;
@@ -508,30 +508,30 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmSpitFire.png') top center no-repeat;
+	background:url('../thm/thmSpitFire.jpg') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
-	-webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+		-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	
 	}
 
 #but12:hover{
 	margin: -5px; 
-	background:url('../thm/thmSpitFire.png') top center no-repeat;
+	background:url('../thm/thmSpitFire.jpg') top center no-repeat;
 		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
-    -webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+ 	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	width: 180px;
 	height: 180px;
 	background-size: 180px 180px;
@@ -539,30 +539,30 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmTablingFlyerDemo.png') top center no-repeat;
+	background:url('../thm/thmTablingFlyerDemo.jpg') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
-	-webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	
 	}
 
 #but13:hover{
 	margin: -5px; 
-	background:url('../thm/thmTablingFlyerDemo.png') top center no-repeat;
+	background:url('../thm/thmTablingFlyerDemo.jpg') top center no-repeat;
 		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
-    -webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+ 	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	width: 180px;
 	height: 180px;
 	background-size: 180px 180px;
@@ -571,30 +571,30 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmChillin.png') top center no-repeat;
+	background:url('../thm/thmChillin.jpg') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
-	-webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+		-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	
 	}
 
 #but14:hover{
 	margin: -5px; 
-	background:url('../thm/thmChillin.png') top center no-repeat;
+	background:url('../thm/thmChillin.jpg') top center no-repeat;
 		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
-    -webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	width: 180px;
 	height: 180px;
 	background-size: 180px 180px;
@@ -605,30 +605,30 @@ p{
 	width: 180px;
 	height: 180px;
 	transition: background 0.8s ease;
-	background:url('../thm/thmFnf.png') top center no-repeat;
+	background:url('../thm/thmFnf.jpg') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
-	-webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+		-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	
 	}
 
 #but15:hover{
 	margin: -5px; 
-	background:url('../thm/thmFnf.png') top center no-repeat;
+	background:url('../thm/thmFnf.jpg') top center no-repeat;
 		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
-    -webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+ 	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	width: 180px;
 	height: 180px;
 	background-size: 180px 180px;
@@ -639,30 +639,30 @@ p{
 
 	position: relative;
 	transition: background 0.8s ease;
-	background:url('../thm/thmKrispy.png') top center no-repeat;
+	background:url('../thm/thmKrispy.jpg') top center no-repeat;
 	border: none;
 	background-size: 180px 180px;
-	-webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	
 	}
 
 #but16:hover{
 	margin: -5px; 
-	background:url('../thm/thmKrispy.png') top center no-repeat;
+	background:url('../thm/thmKrispy.jpg') top center no-repeat;
 		 -webkit-box-shadow: 10px 10px 5px 2px #ECECEC;
     -moz-box-shadow: 10px 10px 5px 2px #ECECEC;
     box-shadow: 10px 10px 5px 2px #ECECEC;
-    -webkit-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -kthtml-transition: all .3s linear;
-    transition: all .3s linear;
+   	-webkit-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -kthtml-transition: all .15 linear;
+    transition: all .15s linear;
 	width: 180px;
 	height: 180px;
 	background-size: 180px 180px;

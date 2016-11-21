@@ -70,7 +70,7 @@ mark{
 	/* THIS CONTROLS THE NAV TEXT */
 .navbar-default .navbar-nav> li>a{
 	line-height: 100%;
-	font-family: 'Work Sans', sans-serif;;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
 	color: grey;
 	font-size: 16px;
 	

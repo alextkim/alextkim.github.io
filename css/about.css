@@ -1,72 +1,17 @@
-#myCarousel .item{
-	height: 625px;
+.text h3{
+	margin-top: 2%;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+	color: #818285;
+
 
 }
 
-#slide1{
-	background: url('../images/nightSky2.png') top center no-repeat;
+#pageContent2{
+	margin-top: 2%;
+	width: 55%;
 }
-#slide2{
-	background: url('../images/searching2.png') top center no-repeat;
+#pfp{
+	margin-top: 1%;
 }
-
-#slide3{
-	background: url('../images/traitsPhoto.png')  center no-repeat;
-}
-#pageContentog h1{
-font-size: 40px;
-color:black;
-margin-bottom: 15px;
-}
-#pageContent h3{
-color: black;
-}
-#pageContent h1{
-font-size: 35px;
-color:black;
-margin-bottom: 15px;
-}
-
-.navbar { margin-bottom:0px !important; }
-.carousel-caption { margin-top:0px !important }
-
-.btn-primary a{
-	color:#fff;
-}
-#buttonChurch  {
-	 background-color: #F9690E;
-	 border: 1px solid #FDE3A7;
-	 -webkit-border-radius:5px;
-}
-#glyph{
-	 position: relative;
-	 margin-top: 230px;
-  top: 1px;
-  display: inline-block;
-  font-family: 'Glyphicons Halflings';
-  font-style: normal;
-  font-weight: normal;
-  line-height: 1;
-  }
-  
-  
-  /*	------------------ Media queries -----------------------*/
-
-
-
-
-
-@media only screen and (max-width:979px){
-	#slide1{
-	background: url('../images/nightSky2Med.png') top center no-repeat;
-	}
-
-}
-@media only screen and (max-width:500px){
-	#slide1{
-	background: url('../images/nightSky2.png') top center no-repeat;
-	}
-
-}
-
 
