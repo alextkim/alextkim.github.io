@@ -6,6 +6,14 @@
 
 }
 
+
+.text {
+	margin-top: 2%;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 20px;
+	color: #818285;
+
+}
 #pageContent2{
 	margin-top: 2%;
 	width: 55%;
